@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="styles.css" type="text/css">
+</head>
+<body>
+<h1 class="title">My Website About Me</h1>
+
+
+<img src="C:\Users\jason\Desktop\Programming\Images\IMG-20170718-WA0031.jpeg" class="image1">
+
+<img src="C:\Users\jason\OneDrive\Pictures\Family\Noelle & Layla\Noelle School Photo Fall 2017.jpg" class="image2">
+
+
+
+
+<div class="description">My name is Jason Nordin and I have two beautiful daughters whom I love very much. Noelle is my oldest, she is 14, and Layla is my youngest, she is 12.
+<p>I have been in the military for 21 years, 8 years in the Army and 13 years in the Navy. My civilian career has progressed from facilities to asset/inventory managemt to project management; now I am reinventing myself to be a computer programmer.</p>
+<p>I am very excited to be learning this <b>technology!</b> I have always been fascinated with technology and have quite an extensive knowledge base about technology.</p>
+<p>I like front end web development, it's fun! However, my <i>passion</i> is in cybersecurity! My plan for getting into the cybersecurity field is to become proficient with programming (while constantly honing my skills) and pursue my cybersecurity certifications.</P>
+</div>
+
+
+
+
+</body>
+</html>
